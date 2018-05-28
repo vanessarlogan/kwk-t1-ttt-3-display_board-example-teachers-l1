@@ -3,3 +3,5 @@ def display_board
   puts "   " "|" "   " "|" "   "
   puts "hi"
 end
+
+display_board
